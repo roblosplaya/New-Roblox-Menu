@@ -1,3 +1,21 @@
+Infinte Zoom.
+
 {
 "FIntCameraMaxZoomDistance": "99999"
 }
+
+Menu Settings.
+
+{
+"FFlagEnableAccessibilitySettingsAPIV2": "true",
+"FFlagEnableAccessibilitySettingsEffectsInCoreScripts2": "true",
+"FFlagEnableAccessibilitySettingsEffectsInExperienceChat": "true",
+"FFlagEnableAccessibilitySettingsInExperienceMenu2":"true"
+}
+
+Less Bright Sun??
+
+{
+  "FFlagDisablePostFx": "True"
+}
+
